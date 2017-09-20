@@ -1,6 +1,6 @@
 {
   "name": "lqp_hello_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just say hello to npm",
   "main": "index.js",
   "scripts": {
