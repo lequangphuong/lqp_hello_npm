@@ -7,7 +7,7 @@ Just say hello to npm
 ## Usage
 
   var lqp_hello_npm = require('lqp_hello_npm')
-      print = scapegoat.print;
+      print = lqp_hello_npm.print;
 
   var result = print('NPM')
 
